@@ -1,0 +1,49 @@
+
+.first {
+  background-color: #f7f6ee;
+  height: 15px;
+  width: 100%;
+}
+
+
+.jumbotron {
+  background-color: #f7f6ee;
+  margin: auto;
+  padding: 20px;
+}
+.home-button {
+  background-color:   #5e60cb;
+  padding: 10px;
+}
+h1{
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+.testimonies {
+  text-align: center;
+}
+
+.last {
+  background-image: linear-gradient(to right, #67696d, #e8eef2);
+  height: 100px;
+  min-width:  100%;
+}
+
+.row {
+  margin: 15px;
+}
+
+
+
+
+
+h5 {
+  font-weight: bold;
+}
+.footer {
+  text-align: left;
+}
